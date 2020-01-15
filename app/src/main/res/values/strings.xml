@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">E-learning</string>
+    <string name="login_ready">Already have account? Log in</string>
+    <string name="get_started">Get started</string>
+    <string name="login">Login</string>
+    <string name="create_account">create account</string>
+    <string name="step1_i">Develop a passion for learning.</string>
+    <string name="image1">image1</string>
+    <string name="passion">Passion</string>
+    <string name="log_in">Log in</string>
+</resources>
